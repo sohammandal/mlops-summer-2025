@@ -1,0 +1,5 @@
+[core]
+    remote = dvcstore
+['remote "dvcstore"']
+    url = s3://mlops-data-soham-mandal/dvc-store
+    endpointurl = https://s3.amazonaws.com
