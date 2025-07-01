@@ -194,3 +194,7 @@ cython_debug/
 .cursorindexingignore
 
 .DS_Store
+
+# Ignore raw dataset
+Data Versioning/*.csv
+Data Versioning/*.html
