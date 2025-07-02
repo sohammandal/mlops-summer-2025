@@ -18,6 +18,7 @@ mlops-summer-2025/
 │   ├── athletes.csv                 # Original raw dataset - NOT committed
 │   ├── v1_train.csv / v1_test.csv   # Dataset version 1 (raw + split) - NOT committed
 │   ├── v2_train.csv / v2_test.csv   # Dataset version 2 (cleaned + split) - NOT committed
+│   ├── docker_compose.yml           # Docker setup for LakeFS locally
 │   ├── *.dvc                        # DVC pointers for v1/v2 CSVs
 │   ├── data_cleaning.ipynb          # Dataset cleaning notebook
 │   ├── eda_model_training.ipynb     # EDA + ML modeling notebook (baseline and v2)
