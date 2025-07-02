@@ -7,6 +7,8 @@ This project implements data versioning and model training using **two tools**:
 
 The objective is to compare the two approaches while building and evaluating ML models with and without differential privacy.
 
+> **Disclaimer**: I used AI tools such as ChatGPT for guidance during this assignment, but all implementation and final work is my own.
+
 ---
 
 ## Folder Structure
