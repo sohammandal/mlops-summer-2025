@@ -9,6 +9,27 @@ Course repo for UChicago's MLOps course in Summer 2025.
 
 ## Setup
 
+1. Clone the repo:
 ```bash
 git clone git@github.com:sohammandal/mlops-summer-2025.git
 cd mlops-summer-2025
+````
+
+2. Install [`uv`](https://github.com/astral-sh/uv) (if not already installed):
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+3. Create and activate the virtual environment:
+
+```bash
+uv venv
+source .venv/bin/activate
+```
+
+4. Install dependencies:
+
+```bash
+uv pip install -r uv.lock
+```
