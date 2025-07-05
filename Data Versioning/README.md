@@ -26,8 +26,8 @@ mlops-summer-2025/
 │   ├── eda_model_training.ipynb     # EDA + ML modeling notebook (baseline and v2)
 │   ├── dp_training.ipynb            # Differential privacy modeling (TF Privacy)
 │   ├── upload_versions_to_lakefs.sh # Shell commands
-│   └── upload_versions_dvc.sh       # Shell commands
-├── .dvc/                            # DVC config files
+│   ├── upload_versions_dvc.sh       # Shell commands
+│   └── .dvc/                        # DVC config files
 ├── requirements.txt
 └── README.md
 ```
