@@ -21,15 +21,9 @@ cd mlops-summer-2025
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-3. Create and activate the virtual environment:
+3. Install dependencies and setup the environment:
 
 ```bash
-uv venv
+uv sync
 source .venv/bin/activate
-```
-
-4. Install dependencies:
-
-```bash
-uv pip install -r uv.lock
 ```
