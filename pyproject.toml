@@ -274,8 +274,3 @@ dependencies = [
     "zc-lockfile==3.0.post1",
     "zipp==3.23.0",
 ]
-
-[dependency-groups]
-airflow = [
-  "apache-airflow==3.0.2",
-]
