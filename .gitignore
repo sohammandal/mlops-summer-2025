@@ -198,3 +198,4 @@ cython_debug/
 # Ignore raw dataset
 Data Versioning/*.csv
 Data Versioning/*.html
+athletes.csv
