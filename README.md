@@ -7,7 +7,8 @@ Course repo for UChicago's MLOps course in Summer 2025.
 - `FastAPI/`: Assignment 0 – API for ML model serving
 - `Data Versioning/`: Assignment 1 – LakeFS, DVC, and DP modeling
 - `ML Experiments & Feature Store/`: Assignment 2 - ML Experiments with Feature Store and Pipeline
-- `AutoML`: Assignment 3: AutoML with FLAML and H2O
+- `AutoML/`: Assignment 3: AutoML with FLAML and H2O
+- `Model Monitoring/`: Assignment 4: Model Monitoring with Evidently
 
 ## Setup
 
